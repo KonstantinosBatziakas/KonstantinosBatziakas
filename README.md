@@ -82,7 +82,6 @@ I'm always open to conversations about creative projects, collaboration, or just
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codinginquires1@gmail.com)
 [![Instagram – Professional](https://img.shields.io/badge/Instagram%20(Professional)-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/konstas.media)
-[![Instagram – Personal](https://img.shields.io/badge/Instagram%20(Personal)-c13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/konstas_223)
 
 ---
 
