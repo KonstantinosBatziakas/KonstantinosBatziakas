@@ -52,6 +52,20 @@ I write, produce, and arrange original beats and compositions. Music production 
 
 ---
 
+## 👀 How to See My App / Πώς να δω την εφαρμογή μου
+
+If you're asking how to view my app right now:
+- This repository is my **GitHub profile README**, so it does not contain a runnable app yet.
+- You can see this page live on my profile: **[github.com/KonstantinosBatziakas](https://github.com/KonstantinosBatziakas)**.
+- As I publish apps, I’ll add direct live links in the **Projects / Έργα** section above.
+
+*Αν αναρωτιέσαι πώς να δεις την εφαρμογή μου τώρα:*
+- Αυτό το repository είναι το **GitHub profile README** μου, άρα δεν περιέχει ακόμα runnable app.
+- Μπορείς να δεις τη σελίδα live στο προφίλ μου: **[github.com/KonstantinosBatziakas](https://github.com/KonstantinosBatziakas)**.
+- Καθώς δημοσιεύω εφαρμογές, θα προσθέτω άμεσα live links στην ενότητα **Projects / Έργα** παραπάνω.
+
+---
+
 ## 🎯 What I'm Working Toward / Στόχοι
 
 I'm in the early stages of a career that I intend to make count. My degree in **Cultural Technology & Communication** gives me a rare lens — I think about technology not just as code, but as **culture, experience, and expression**.
