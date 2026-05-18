@@ -52,10 +52,10 @@ I write, produce, and arrange original beats and compositions. Music production 
 
 ---
 
-## 👀 How to See My App / Πώς να δω την εφαρμογή μου
+## 👀 How to See My App / Πώς να δείτε την εφαρμογή μου
 
 If you're asking how to view my app right now:
-- This repository is my **GitHub profile README**, so it does contains a runnable app for android.
+- This repository is my **GitHub profile README**, so it does contain a runnable app for android.
 - You can see this page live on my profile: **[github.com/KonstantinosBatziakas](https://github.com/KonstantinosBatziakas)**.
 - As I publish apps, I’ll add direct live links in the **Projects / Έργα** section above.
 
