@@ -1,5 +1,5 @@
 # Hi, I'm Konstantinos Batziakas 👋
-# Γεια, είμαι ο Κωνσταντίνος Μπατζιακάς 👋
+# Γεια, είμαι ο Κωνσταντίνος Μπατζιάκας 👋
 
 ### Creative Technologist · Developer · Music Producer · Filmmaker  
 ### Δημιουργικός Τεχνολόγος · Προγραμματιστής · Παραγωγός Μουσικής · Κινηματογραφιστής
